@@ -1,4 +1,4 @@
-> # rlyeh
+> # r'lyeh
 > Real Life-Y Example of Hypermedia
 
 ```diff
